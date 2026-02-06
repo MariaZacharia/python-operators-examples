@@ -12,9 +12,13 @@ This repository contains Python examples demonstrating various types of operator
 7. **Membership Operator** (`not in`)
 8. **Arithmetic Operators** (`+`, `-`, `/`, `//`, `**`, `%`)
 
-# Basic Operators Examples
-The file `basic_operators.py` contains PEP 8-compliant examples. It demonstrates:
+# `basic_operators.py` - PEP 8-compliant examples demonstrating:
 1. Arithmetic Operators
 2. Operators with Strings
 3. Operators with Lists
 4. Exercise
+
+# `python_operator_exercises.py` - PEP 8-compliant exercises from Lesson 18:
+1. Assignment Operator (`=`)
+2. Division Operator (`/`)
+3. Addition using (`+=`)
